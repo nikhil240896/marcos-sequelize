@@ -35,3 +35,5 @@ const restrictTo = (...allowedUsers) => {
 };
 
 module.exports = { verifyJWT, restrictTo };
+
+// https://www.youtube.com/watch?v=QoLqMDSBZAs (Tutorial Link)
